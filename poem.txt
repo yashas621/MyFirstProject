@@ -1,1 +1,2 @@
 "Adding a color line" 
+"Adding a new line" 
